@@ -2,6 +2,7 @@
 ##### http://cimg.eu
 
 ------------------
+This fork contain only header file.
 
 The **CImg Library** is a **small** and **open-source** **C++ toolkit** for **image processing**, designed with these properties in mind:
 
